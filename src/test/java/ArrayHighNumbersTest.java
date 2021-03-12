@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * @author prudvi
+ * @author HP
  */
 public class ArrayHighNumbersTest {
     
